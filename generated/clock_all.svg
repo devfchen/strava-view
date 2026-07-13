@@ -143,6 +143,7 @@
 <path d="M 58.7 73.4 l -0.7 7.5 a21.065269113388045,21.065269113388045 0 0,0 -0.4,-0.0 l 0.8 -7.5" fill="#46fff6" stroke="none"></path>
 <path d="M 58.0 73.4 l -3.5 24.1 a37.82529403850647,37.82529403850647 0 0,0 -0.6,-0.1 l 4.0 -24.0" fill="#3effb2" stroke="none"></path>
 <path d="M 57.6 73.3 l -3.1 16.7 a30.510671066327724,30.510671066327724 0 0,0 -0.5,-0.1 l 3.3 -16.7" fill="#ffe200" stroke="none"></path>
+<path d="M 57.3 73.2 l -0.0 -0.0 a13.5,13.5 0 0,0 -0.2,-0.0 l -0.0 -0.0" fill="#4bddff" stroke="none"></path>
 <line stroke="#FFFFFF" stroke-width="0.3" x1="33.3" x2="30.8" y1="108.1" y2="112.4"></line>
 <path d="M 32.8 108.9 a56.0,56.0 0 0,1 -20.6, -19.8" fill="none" id="month8" stroke="none"></path>
 <text fill="#FFFFFF" style="font-size:5.625px; font-family:Arial;" text-anchor="middle"><textPath startOffset="14.5" xlink:href="#month8">August</textPath></text>
