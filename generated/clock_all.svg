@@ -166,6 +166,7 @@
 <path d="M 52.1 70.9 l -4.7 6.5 a21.55509017652932,21.55509017652932 0 0,0 -0.3,-0.2 l 4.8 -6.4" fill="#46fff6" stroke="none"></path>
 <path d="M 51.9 70.8 l -9.5 12.6 a29.329422261246396,29.329422261246396 0 0,0 -0.4,-0.3 l 9.7 -12.5" fill="#ffe200" stroke="none"></path>
 <path d="M 51.5 70.5 l -2.8 3.4 a17.906955665861794,17.906955665861794 0 0,0 -0.2,-0.2 l 2.8 -3.4" fill="#46fff6" stroke="none"></path>
+<path d="M 51.3 70.3 l -0.0 -0.0 a13.5,13.5 0 0,0 -0.2,-0.2 l -0.0 -0.0" fill="#4bddff" stroke="none"></path>
 <line stroke="#FFFFFF" stroke-width="0.3" x1="12.5" x2="8.2" y1="87.8" y2="90.3"></line>
 <path d="M 11.7 88.3 a56.0,56.0 0 0,1 -7.6, -26.6" fill="none" id="month9" stroke="none"></path>
 <text fill="#FFFFFF" style="font-size:5.625px; font-family:Arial;" text-anchor="middle"><textPath startOffset="14.0" xlink:href="#month9">September</textPath></text>
