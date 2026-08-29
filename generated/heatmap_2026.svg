@@ -738,8 +738,8 @@
   <rect x="739" y="164" width="18" height="18" fill="#444444" class="heatmap-cell">
     <title>2026-08-28: 0.0km (0 activities)</title>
   </rect>
-  <rect x="739" y="185" width="18" height="18" fill="#ffeb00" class="heatmap-cell">
-    <title>2026-08-29: 6.2km (1 activities)</title>
+  <rect x="739" y="185" width="18" height="18" fill="red" class="heatmap-cell">
+    <title>2026-08-29: 9.7km (2 activities)</title>
   </rect>
   <rect x="739" y="206" width="18" height="18" fill="#444444" class="heatmap-cell">
     <title>2026-08-30: 0.0km (0 activities)</title>
