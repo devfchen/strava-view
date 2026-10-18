@@ -216,6 +216,7 @@
 <path d="M 46.8 56.9 l -7.7 -1.8 a21.386971803635234,21.386971803635234 0 0,0 0.1,-0.4 l 7.7 1.9" fill="#46fff6" stroke="none"></path>
 <path d="M 46.9 56.7 l -18.5 -4.6 a32.5296624980581,32.5296624980581 0 0,0 0.1,-0.5 l 18.4 4.9" fill="#ffe200" stroke="none"></path>
 <path d="M 47.0 56.3 l -27.5 -7.9 a42.074510641603226,42.074510641603226 0 0,0 0.2,-0.7 l 27.3 8.4" fill="#72ff27" stroke="none"></path>
+<path d="M 47.1 56.0 l -0.0 0.0 a13.5,13.5 0 0,0 0.1,-0.2 l -0.0 0.0" fill="#4bddff" stroke="none"></path>
 <line stroke="#FFFFFF" stroke-width="0.3" x1="12.3" x2="8.0" y1="32.6" y2="30.1"></line>
 <path d="M 11.4 32.1 a56.0,56.0 0 0,1 19.3, -19.9" fill="none" id="month11" stroke="none"></path>
 <text fill="#FFFFFF" style="font-size:5.625px; font-family:Arial;" text-anchor="middle"><textPath startOffset="14.0" xlink:href="#month11">November</textPath></text>
